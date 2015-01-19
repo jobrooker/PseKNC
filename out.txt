@@ -1,0 +1,6 @@
+>Example1
+AGTCAGTTATGACATGACACACACAACATAGTCAGATCGACGA
+----------------------------------
+Properties: ['Tilt', 'Shift']
+GEARY: [1.268, 1.481]
+======================================
